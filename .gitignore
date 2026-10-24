@@ -1,0 +1,8 @@
+# Local or unreviewed exports, credentials, logs and machine state
+*.local.companionconfig
+*.backup.companionconfig
+.env
+.env.*
+*.log
+secrets/
+machine-local/
